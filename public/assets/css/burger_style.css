@@ -1,0 +1,25 @@
+ html{
+ 	color: white;
+ 	text-shadow: 1px 1px 1px black;
+ 	
+ }
+
+ #h1{
+ 	align-text: center;
+ 	margin: 100px;
+ }
+
+#body{
+	background-image: url("../img/burger.jpg");
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+}
+
+#header{
+ 	font-family: 'Fascinate Inline', cursive;
+ 	color: white;
+ }
