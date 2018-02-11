@@ -2,6 +2,8 @@
 
 Devour some burgers, then make some more! 
 
+View live here: [Heroku Deployment](https://floating-harbor-32497.herokuapp.com/)
+
 This burger app is an assignment that combines MySQL, Node, Express, Handlebars and a homemade ORM (yum!) using an MVC pattern.
 
 Burger is a restaurant app that lets users input the names of burgers they'd like to eat.
